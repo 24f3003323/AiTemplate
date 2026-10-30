@@ -19,7 +19,7 @@ Python path on Windows.
 Clone the template and enter the project directory:
 
 ```powershell
-git clone <repository-url> my-project
+git clone https://github.com/24f3003323/AiTemplate my-project
 cd my-project
 ```
 
